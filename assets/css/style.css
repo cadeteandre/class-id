@@ -1,0 +1,25 @@
+#layout {
+    background-color: #f1f1f1;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+h2, p {
+    color: #333;
+}
+
+button {
+    background-color: lightblue;
+    padding: 5px 15px;
+    margin-left: 200px;
+    border: 1px solid green;
+}
